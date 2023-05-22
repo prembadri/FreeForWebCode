@@ -1,4 +1,17 @@
-## FREE RESOURCES FOR WEB DEVELOPERS
+[![FreeForWebCodeBanner](./Banner.png)](https://prembadri.github.io/FreeForWebCode/#/)
+
+If you're a web developer or aspiring to become one, you know how important it is to stay up-to-date with the latest technologies and best practices. Luckily, there are plenty of resources available online to help you do just that!
+
+I've put together a PDF with some of the top web development resources out there, covering topics like HTML, CSS, JavaScript, and more. Whether you're a beginner or a seasoned pro, you're sure to find something useful in this web page.
+
+So if you're looking to improve your web development skills, be sure to check it out. And don't forget to follow me for more great content like this!
+
+If you want to add. Create MD File. Create a PR. we will Update the web links.
+
+STOP 🛑 throwing away your money 💰 on expensive video tutorials when you can learn for FREE!!
+
+Follow me for more!
+
 
 # Learn HTML
 
@@ -671,3 +684,4 @@ SnippetShot
 ```
 
 
+<a href="https://www.buymeacoffee.com/badriprem" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
